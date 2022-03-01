@@ -1,0 +1,19 @@
+segment_sources:
+  P09494984:
+    type: origin_type
+    relation: translation
+    language: en
+  PACC6A79C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  1ee7bd12ab144f0183cfbda43e262c0b:
+    P09494984: 98b1954c91ee439daaa00b7f7ba4cbcb
+    PACC6A79C: 35f9c40d9a3347e8afc01179afd340f6
+  40d75febf6324e73ad220af51e369b51:
+    P09494984: f415abc538854fbbaff6b2a9dd03b668
+    PACC6A79C: 23e265420c9b4152afded6b95bbd1c9b
+  e026558596ee42b49bb56d02b2275b8c:
+    P09494984: 491834f41fc24a2aa02ec72f86d12416
+    PACC6A79C: a5f3bb712fc24026a9dc22f54ae81dd9
